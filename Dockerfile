@@ -12,7 +12,7 @@ RUN npm install
 COPY . .
 
 # Expõe a porta do Vite
-EXPOSE 5173
+EXPOSE 5176
 
 # Comando para desenvolvimento
 CMD ["npm", "run", "dev", "--", "--host"]
