@@ -18,7 +18,7 @@ const Header = () => {
           <div className="flex items-center gap-3">
             <Zap size={32} className="text-amber-400" />
             <div>
-              <h1 className="text-2xl md:text-3xl font-bold">Clarke Energia</h1>
+              <h1 className="text-2xl md:text-3xl font-bold">Caaalarke Energia</h1>
               <p className="text-slate-300 text-sm hidden md:block">
                 Calcule sua economia com energia sustentável
               </p>
